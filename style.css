@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+    width: 50%
+}
+
+img{
+    border: solid white 5px;
+    width: 100%;
+}
